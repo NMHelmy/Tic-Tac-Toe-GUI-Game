@@ -1,5 +1,6 @@
-# 🏓 Python Ping Pong Game
-A classic 2-player Ping Pong game built using Python's Turtle graphics library.
+# 🎮 Tic-Tac-Toe in Pygame
+
+A classic Tic-Tac-Toe game built with Python and Pygame, featuring player customization, tiebreaker modes, and a clean UI.
 
 ## 📋 Table of Contents  
 - [🎥 Game Demo](#-game-demo)  
@@ -11,7 +12,7 @@ A classic 2-player Ping Pong game built using Python's Turtle graphics library.
 ---
 
 ## 🎥 Game Demo
-[![Ping Pong Demo](https://img.shields.io/badge/▶-Watch%20Demo-blue)](https://github.com/user-attachments/assets/ec968871-5246-4316-90df-154014d18080)
+[![Tic Tac Toe Demo](https://img.shields.io/badge/▶-Watch%20Demo-blue)](https://github.com/user-attachments/assets/ec968871-5246-4316-90df-154014d18080)
 <br>*(Click the badge above to view the gameplay video)* 
 
 ---
