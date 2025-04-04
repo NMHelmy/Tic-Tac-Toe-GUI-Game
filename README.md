@@ -48,6 +48,6 @@ cd tic_tac_toe
 ---
 
 ## 🔧 Possible Future Improvements
-- AI opponent (Minimax algorithm)
+- AI opponent 
 - Online multiplayer
 - Sound effects
